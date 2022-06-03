@@ -1,0 +1,15 @@
+C:\Users\ilker\source\repos\Assigment\Assigment2\bin\Debug\net6.0\Assignment2.exe
+C:\Users\ilker\source\repos\Assigment\Assigment2\bin\Debug\net6.0\Assignment2.deps.json
+C:\Users\ilker\source\repos\Assigment\Assigment2\bin\Debug\net6.0\Assignment2.runtimeconfig.json
+C:\Users\ilker\source\repos\Assigment\Assigment2\bin\Debug\net6.0\Assignment2.dll
+C:\Users\ilker\source\repos\Assigment\Assigment2\bin\Debug\net6.0\Assignment2.pdb
+C:\Users\ilker\source\repos\Assigment\Assigment2\obj\Debug\net6.0\Assignment2.csproj.AssemblyReference.cache
+C:\Users\ilker\source\repos\Assigment\Assigment2\obj\Debug\net6.0\Assignment2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ilker\source\repos\Assigment\Assigment2\obj\Debug\net6.0\Assignment2.AssemblyInfoInputs.cache
+C:\Users\ilker\source\repos\Assigment\Assigment2\obj\Debug\net6.0\Assignment2.AssemblyInfo.cs
+C:\Users\ilker\source\repos\Assigment\Assigment2\obj\Debug\net6.0\Assignment2.csproj.CoreCompileInputs.cache
+C:\Users\ilker\source\repos\Assigment\Assigment2\obj\Debug\net6.0\Assignment2.dll
+C:\Users\ilker\source\repos\Assigment\Assigment2\obj\Debug\net6.0\refint\Assignment2.dll
+C:\Users\ilker\source\repos\Assigment\Assigment2\obj\Debug\net6.0\Assignment2.pdb
+C:\Users\ilker\source\repos\Assigment\Assigment2\obj\Debug\net6.0\Assignment2.genruntimeconfig.cache
+C:\Users\ilker\source\repos\Assigment\Assigment2\obj\Debug\net6.0\ref\Assignment2.dll
